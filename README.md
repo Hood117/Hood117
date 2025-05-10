@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Apache Hadoop, Hive, Advanced Bash scripting**
 
-- 👨‍💻 All of my projects are available at [#That's coming](#That's coming)
-
 - 💬 Ask me about **Linux | Hive | Hadoop | Monitoring | Power Bi | Excel**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rahamtullah-zadran-148074278) | ghostcipher0@gmail.com**

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rahamtullah-zadran-148074278) | rahmatzadran.tech@gmail.com**
 
-- ⚡ Fun fact **I automate things I’m too lazy to do twice 😄**
+- ⚡ Fun fact **I automate things I’m too lazy to do twice 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

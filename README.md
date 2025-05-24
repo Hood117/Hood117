@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hood117&label=Profile%20views&color=0e75b6&style=flat" alt="hood117" /> </p>
 
-- 🌱 I’m currently learning **Apache Hadoop, Hive, Advanced Bash scripting**
+- 🌱 I’m currently learning **Apache Hadoop, Hive, Advanced Bash scripting and Advanced system administration**
 
 - 💬 Ask me about **Linux | Hive | Hadoop | Monitoring | Power Bi | Excel | Servers**
 

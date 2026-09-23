@@ -1,30 +1,47 @@
-<h1 align="center">Hi 👋, I'm Rahmatullah Zadran</h1>
-<h3 align="center">A passionate Linux Sysadmin & Data Analyst from Afghanistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hood117&label=Profile%20views&color=0e75b6&style=flat" alt="hood117" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&center=true&vCenter=true&width=620&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahmatullah+Zadran;Full-Stack+Developer+%7C+DevOps-leaning;Ship+fast.+Automate+everything." alt="typing intro" />
 
-- 🌱 I’m currently learning **Apache Hadoop, Hive, Advanced Bash scripting and Advanced system administration**
+**Rahmatullah Zadran** · `Hood117`
+**Full-Stack Developer** · DevOps-leaning · building [**SignalPulse**](https://github.com/Hood117/signalpulse) — evidence-first product discovery
+Next.js · TypeScript · PostgreSQL · Prisma · Docker
+Linux roots: sysadmin · Nginx · K8s · AWS · Hadoop/Hive
 
-- 💬 Ask me about **Linux | Hive | Hadoop | Monitoring | Power Bi | Excel | Servers**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahamtullah-zadran-148074278)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmatzadran.tech@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zainn__117)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/@hood_117)
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rahamtullah-zadran-148074278) | rahmatzadran.tech@gmail.com**
+</div>
 
-- ⚡ Fun fact **I automate things I’m too lazy to do twice 😁**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahamtullah-zadran-148074278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahamtullah-zadran-148074278" height="30" width="40" /></a>
-<a href="https://instagram.com/zainn__117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zainn__117" height="30" width="40" /></a>
-<a href="https://discord.gg/@hood_117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@hood_117" height="30" width="40" /></a>
-</p>
+### ● Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hood117&show_icons=true&locale=en&layout=compact" alt="hood117" /></p>
+### ● Spotlight
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hood117&show_icons=true&locale=en" alt="hood117" /></p>
+[![SignalPulse](https://github-readme-stats.vercel.app/api/pin/?username=Hood117&repo=signalpulse&theme=tokyonight&hide_border=true&border_radius=6)](https://github.com/Hood117/signalpulse)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hood117&" alt="hood117" /></p>
+### ● Telemetry
 
+<img src="https://github-readme-stats.vercel.app/api?username=hood117&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6" alt="stats" height="150" />
+<img src="https://streak-stats.demolab.com?user=hood117&theme=tokyonight&hide_border=true&border_radius=6" alt="streak" height="150" />
 
+> *"I automate things I'm too lazy to do twice."*
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hood117&label=Profile+views&style=flat-square&color=0e75b6" alt="profile views" /></p>

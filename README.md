@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&center=true&vCenter=true&width=620&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahmatullah+Zadran;Full-Stack+Developer+%7C+DevOps-leaning;Ship+fast.+Automate+everything." alt="typing intro" />
 
+<div align="center">
+  <img height="200" src="https://media.tenor.com/xEFoZaAo2dMAAAAi/club-penguin-dance.gif" alt="dancing penguin" />
+</div>
+
 **Rahmatullah Zadran** · `Hood117`
 **Full-Stack Developer** · DevOps-leaning · building [**SignalPulse**](https://github.com/Hood117/signalpulse) — evidence-first product discovery
 Next.js · TypeScript · PostgreSQL · Prisma · Docker
@@ -41,6 +45,14 @@ Linux roots: sysadmin · Nginx · K8s · AWS · Hadoop/Hive
 
 <img src="https://github-readme-stats.vercel.app/api?username=hood117&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6" alt="stats" height="150" />
 <img src="https://streak-stats.demolab.com?user=hood117&theme=tokyonight&hide_border=true&border_radius=6" alt="streak" height="150" />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hood117/Hood117/output/snake.svg?palette=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hood117/Hood117/output/snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hood117/Hood117/output/snake.svg" />
+  </picture>
+</div>
 
 ![contribution terminal](./assets/contrib-terminal.svg)
 

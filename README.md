@@ -42,6 +42,8 @@ Linux roots: sysadmin · Nginx · K8s · AWS · Hadoop/Hive
 <img src="https://github-readme-stats.vercel.app/api?username=hood117&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6" alt="stats" height="150" />
 <img src="https://streak-stats.demolab.com?user=hood117&theme=tokyonight&hide_border=true&border_radius=6" alt="streak" height="150" />
 
+![contribution terminal](./assets/contrib-terminal.svg)
+
 > *"I automate things I'm too lazy to do twice."*
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hood117&label=Profile+views&style=flat-square&color=0e75b6" alt="profile views" /></p>

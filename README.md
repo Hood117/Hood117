@@ -54,8 +54,6 @@ Linux roots: sysadmin · Nginx · K8s · AWS · Hadoop/Hive
   </picture>
 </div>
 
-![contribution terminal](./assets/contrib-terminal.svg)
-
 > *"I automate things I'm too lazy to do twice."*
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hood117&label=Profile+views&style=flat-square&color=0e75b6" alt="profile views" /></p>

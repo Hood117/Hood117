@@ -6,15 +6,19 @@
   <img height="200" src="https://media.tenor.com/xEFoZaAo2dMAAAAi/club-penguin-dance.gif" alt="dancing penguin" />
 </div>
 
-**Rahmatullah Zadran** · `Hood117`
-**Full-Stack Developer** · DevOps-leaning · building [**SignalPulse**](https://github.com/Hood117/signalpulse) — evidence-first product discovery
-Next.js · TypeScript · PostgreSQL · Prisma · Docker
-Linux roots: sysadmin · Nginx · K8s · AWS · Hadoop/Hive
+### $ whoami — Rahmatullah Zadran · `Hood117`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahamtullah-zadran-148074278)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmatzadran.tech@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zainn__117)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/@hood_117)
+**Full-Stack Developer** · **DevOps-leaning** · professional ship-it machine 🚀
+From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it.
+I build systems that scale and interfaces people love — then automate everything around them.
+
+`TypeScript` · `Next.js` · `PostgreSQL` · `Prisma` · `Docker` · `K8s` · `AWS` · `Nginx` · `Linux`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahamtullah-zadran-148074278)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rahmatdev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmatzadran.tech@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zainn__117)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@hood_117)
 
 </div>
 

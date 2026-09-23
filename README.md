@@ -51,10 +51,6 @@ I build systems that scale and interfaces people love — then automate everythi
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=FFB727)
 ![Apache Hive](https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=apachehive&logoColor=FDEE21)
 
-### ● Spotlight
-
-[![SignalPulse](https://github-readme-stats.vercel.app/api/pin/?username=Hood117&repo=signalpulse&theme=tokyonight&hide_border=true&border_radius=6)](https://github.com/Hood117/signalpulse)
-
 ### ● Telemetry
 
 <img src="https://github-readme-stats.vercel.app/api?username=hood117&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6" alt="stats" height="150" />

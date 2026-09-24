@@ -12,8 +12,6 @@
 From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it.
 I build systems that scale and interfaces people love — then automate everything around them.
 
-`TypeScript` · `Next.js` · `PostgreSQL` · `Prisma` · `Docker` · `K8s` · `AWS` · `Nginx` · `Linux`
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahamtullah-zadran-148074278)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rahmatdev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hood117)

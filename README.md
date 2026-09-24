@@ -54,7 +54,7 @@ I build systems that scale and interfaces people love — then automate everythi
 
 ### ● Telemetry
 
-<img src="https://github-readme-stats.vercel.app/api?username=hood117&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6" alt="stats" height="150" />
+<img src="https://github-readme-stats-five-delta-16.vercel.app/api?username=hood117&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6" alt="stats" height="150" />
 <img src="https://streak-stats.demolab.com?user=hood117&theme=tokyonight&hide_border=true&border_radius=6" alt="streak" height="150" />
 
 <div align="center">

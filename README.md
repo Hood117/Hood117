@@ -67,4 +67,10 @@ I build systems that scale and interfaces people love — then automate everythi
 
 > *"I automate things I'm too lazy to do twice."*
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=hood117&label=Profile+views&style=flat-square&color=0e75b6" alt="profile views" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hood117&label=Profile+views&style=for-the-badge&color=0e75b6" alt="profile views" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&center=true&vCenter=true&width=460&height=30&lines=Thanks+for+stopping+by!+Let's+build+something+epic+%F0%9F%9A%80" alt="thanks for visiting" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=110&section=footer" width="100%" alt="footer wave" />
+</div>

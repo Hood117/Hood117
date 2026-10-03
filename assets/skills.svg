@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="446" viewBox="0 0 720 446" role="img" aria-label="Skills report">
+<rect x="0" y="0" width="720" height="446" fill="#0d1117"/>
+<rect x="0" y="0" width="720" height="446" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect x="0" y="0" width="720" height="46" fill="#161b22"/>
+<line x1="0" y1="46" x2="720" y2="46" stroke="#21262d" stroke-width="1"/>
+<rect x="20" y="18" width="10" height="10" fill="#a3e635"/>
+<text x="40" y="28" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="14" fill="#e6edf3" font-weight="700">TECHNICAL REPORT</text>
+<text x="700" y="28" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="14" fill="#8b949e" text-anchor="end">hood117 --skills</text>
+<line x1="370" y1="70" x2="370" y2="414" stroke="#21262d" stroke-width="1"/>
+<rect x="40" y="76" width="10" height="10" fill="#22d3ee" rx="2"/>
+<text x="58" y="85" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#22d3ee" font-weight="700" letter-spacing="1.5">FRONTEND</text>
+<text x="40" y="125" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Next.js</text>
+<rect x="190" y="115" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="190" y="115" width="105" height="10" fill="#22d3ee" rx="5"/>
+<text x="308" y="125" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">95</text>
+<text x="40" y="155" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">React</text>
+<rect x="190" y="145" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="190" y="145" width="101" height="10" fill="#22d3ee" rx="5"/>
+<text x="308" y="155" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">92</text>
+<text x="40" y="185" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">TypeScript</text>
+<rect x="190" y="175" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="190" y="175" width="99" height="10" fill="#22d3ee" rx="5"/>
+<text x="308" y="185" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">90</text>
+<text x="40" y="215" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Tailwind CSS</text>
+<rect x="190" y="205" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="190" y="205" width="97" height="10" fill="#22d3ee" rx="5"/>
+<text x="308" y="215" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">88</text>
+<rect x="40" y="232" width="10" height="10" fill="#a78bfa" rx="2"/>
+<text x="58" y="241" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#a78bfa" font-weight="700" letter-spacing="1.5">BACKEND</text>
+<text x="40" y="281" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Node.js</text>
+<rect x="190" y="271" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="190" y="271" width="99" height="10" fill="#a78bfa" rx="5"/>
+<text x="308" y="281" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">90</text>
+<text x="40" y="311" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">PostgreSQL</text>
+<rect x="190" y="301" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="190" y="301" width="94" height="10" fill="#a78bfa" rx="5"/>
+<text x="308" y="311" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">85</text>
+<text x="40" y="341" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Prisma</text>
+<rect x="190" y="331" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="190" y="331" width="90" height="10" fill="#a78bfa" rx="5"/>
+<text x="308" y="341" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">82</text>
+<text x="40" y="371" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Python</text>
+<rect x="190" y="361" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="190" y="361" width="86" height="10" fill="#a78bfa" rx="5"/>
+<text x="308" y="371" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">78</text>
+<rect x="392" y="76" width="10" height="10" fill="#a3e635" rx="2"/>
+<text x="410" y="85" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#a3e635" font-weight="700" letter-spacing="1.5">DEVOPS &amp; CLOUD</text>
+<text x="392" y="125" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Linux</text>
+<rect x="542" y="115" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="542" y="115" width="99" height="10" fill="#a3e635" rx="5"/>
+<text x="660" y="125" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">90</text>
+<text x="392" y="155" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Docker</text>
+<rect x="542" y="145" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="542" y="145" width="97" height="10" fill="#a3e635" rx="5"/>
+<text x="660" y="155" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">88</text>
+<text x="392" y="185" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Git</text>
+<rect x="542" y="175" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="542" y="175" width="101" height="10" fill="#a3e635" rx="5"/>
+<text x="660" y="185" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">92</text>
+<text x="392" y="215" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Bash</text>
+<rect x="542" y="205" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="542" y="205" width="94" height="10" fill="#a3e635" rx="5"/>
+<text x="660" y="215" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">85</text>
+<text x="392" y="245" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Nginx</text>
+<rect x="542" y="235" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="542" y="235" width="88" height="10" fill="#a3e635" rx="5"/>
+<text x="660" y="245" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">80</text>
+<text x="392" y="275" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Kubernetes</text>
+<rect x="542" y="265" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="542" y="265" width="86" height="10" fill="#a3e635" rx="5"/>
+<text x="660" y="275" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">78</text>
+<text x="392" y="305" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">AWS</text>
+<rect x="542" y="295" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="542" y="295" width="83" height="10" fill="#a3e635" rx="5"/>
+<text x="660" y="305" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">75</text>
+<rect x="392" y="322" width="10" height="10" fill="#f0b429" rx="2"/>
+<text x="410" y="331" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#f0b429" font-weight="700" letter-spacing="1.5">DATA</text>
+<text x="392" y="371" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Apache Hadoop</text>
+<rect x="542" y="361" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="542" y="361" width="77" height="10" fill="#f0b429" rx="5"/>
+<text x="660" y="371" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">70</text>
+<text x="392" y="401" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="16" fill="#c9d1d9">Apache Hive</text>
+<rect x="542" y="391" width="110" height="10" fill="#21262d" rx="5"/>
+<rect x="542" y="391" width="75" height="10" fill="#f0b429" rx="5"/>
+<text x="660" y="401" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#8b949e">68</text>
+<text x="700" y="432" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="11" fill="#6e7681" text-anchor="end">self-assessed · scaled by coffee</text>
+</svg>

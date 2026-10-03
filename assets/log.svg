@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="226" viewBox="0 0 720 226" role="img" aria-label="System log">
+<rect x="0" y="0" width="720" height="226" fill="#0d1117"/>
+<rect x="0" y="0" width="720" height="226" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect x="0" y="0" width="720" height="46" fill="#161b22"/>
+<line x1="0" y1="46" x2="720" y2="46" stroke="#21262d" stroke-width="1"/>
+<rect x="20" y="18" width="10" height="10" fill="#a3e635"/>
+<text x="40" y="28" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="14" fill="#e6edf3" font-weight="700">SYSTEM LOG</text>
+<text x="700" y="28" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="14" fill="#8b949e" text-anchor="end">tail -f /var/log/hood117.log</text>
+<rect x="20" y="66" width="56" height="24" fill="#a3e635" rx="4"/>
+<text x="48" y="83" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#0d1117" font-weight="700" text-anchor="middle">OK</text>
+<text x="92" y="83" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="15" fill="#c9d1d9">build passed on first try — it happens sometimes</text>
+<rect x="20" y="102" width="56" height="24" fill="#a3e635" rx="4"/>
+<text x="48" y="119" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#0d1117" font-weight="700" text-anchor="middle">OK</text>
+<text x="92" y="119" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="15" fill="#c9d1d9">infra declared as code, not folklore</text>
+<rect x="20" y="138" width="56" height="24" fill="#f0b429" rx="4"/>
+<text x="48" y="155" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#0d1117" font-weight="700" text-anchor="middle">WARN</text>
+<text x="92" y="155" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="15" fill="#c9d1d9">sleep.service failed to start</text>
+<rect x="20" y="174" width="56" height="24" fill="#22d3ee" rx="4"/>
+<text x="48" y="191" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="13" fill="#0d1117" font-weight="700" text-anchor="middle">...</text>
+<text x="92" y="191" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="15" fill="#c9d1d9">automating the task done twice yesterday</text>
+</svg>

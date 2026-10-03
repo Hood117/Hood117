@@ -22,20 +22,6 @@ From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it. I bui
 <img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/log.svg" width="100%" alt="System log"/>
 </div>
 
-<div align="center"><code>▸ SELECTED WORK</code></div>
-
-<div align="center">
-<a href="https://github.com/Hood117/my-notes-app"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/card-my-notes-app.svg" width="100%" alt="my-notes-app — note-taking app built with React and Supabase"/></a>
-
-<a href="https://github.com/Hood117/mini-openclaw"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/card-mini-openclaw.svg" width="100%" alt="mini-openclaw — TypeScript playground"/></a>
-
-<a href="https://github.com/Hood117/powerbi-sales-dashboard"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/card-powerbi-sales-dashboard.svg" width="100%" alt="powerbi-sales-dashboard — interactive sales dashboard"/></a>
-
-<a href="https://github.com/Hood117/ssh-guide"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/card-ssh-guide.svg" width="100%" alt="ssh-guide — everything about SSH"/></a>
-
-**[all repos →](https://github.com/Hood117?tab=repositories)**
-</div>
-
 <div align="center"><code>▸ TELEMETRY</code></div>
 
 <div align="center">

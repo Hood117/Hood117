@@ -1,90 +1,139 @@
-<div align="center">
+<pre>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&center=true&vCenter=true&width=620&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahmatullah+Zadran;Full-Stack+Developer+%7C+DevOps-leaning;Ship+fast.+Automate+everything." alt="typing intro" />
+                         <b>HOOD(1)</b>
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/xEFoZaAo2dMAAAAi/club-penguin-dance.gif" alt="dancing penguin" />
-</div>
+         General Commands Manual                     <b>HOOD(1)</b>
 
-### $ whoami — Rahmatullah Zadran · `Hood117`
+<b>NAME</b>
+     hood117 — Rahmatullah Zadran, full-stack developer with a DevOps habit
 
-**Full-Stack Developer** · **DevOps-leaning** · professional ship-it machine 🚀
-From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it.
-I build systems that scale and interfaces people love — then automate everything around them.
+<b>SYNOPSIS</b>
+     <b>hood117</b> [--full-stack] [--devops] [--ships-fast]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahamtullah-zadran-148074278)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rahmatdev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hood117)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmatzadran.tech@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itxzadrann)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hood_117)
+<b>DESCRIPTION</b>
+     From bare-metal Linux to pixel-perfect Next.js: if it ships, he
+     touched it. Builds systems that scale and interfaces people love,
+     then automates everything around them — pipelines, deploys, and
+     every boring task that should have been a script in the first place.
 
-</div>
+     Policy: automate anything done twice, delete anything done never,
+     ship before the coffee gets cold.
 
----
+<b>OPTIONS</b>
+     <b>-fe</b>, <b>--frontend</b>
+             Next.js, React, TypeScript, Tailwind CSS.
+             The UI is not done until it survives a cracked phone
+             screen on bad wifi.
 
-### ● Stack
+     <b>-be</b>, <b>--backend</b>
+             Node.js, PostgreSQL, Prisma, Python.
+             Schemas first, migrations second, excuses never.
 
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+     <b>--ops</b>
+             Docker, Kubernetes, AWS, Nginx, Linux, Bash, Git.
+             If it can be scripted, it will be scripted. If it
+             cannot, it gets rewritten until it can.
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+     <b>--data</b>
+             Apache Hadoop, Apache Hive.
+             For when the dataset decides to fight back.
 
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+     <b>-h</b>, <b>--help</b>
+             This profile. You are already reading it.
 
-**Data**
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=FFB727)
-![Apache Hive](https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=apachehive&logoColor=FDEE21)
+<b>EXIT STATUS</b>
+     0      Success. It shipped.
+     1      Failure. It shipped anyway.
+     42     The answer, obviously.
+     139    Segfaulted mid-demo. Restart the presentation.
 
-### ● Telemetry
+<b>FILES</b>
+     ~/dev/my-notes-app
+             Personal note-taking app built with React and Supabase.
+             <a href="https://github.com/Hood117/my-notes-app">github.com/Hood117/my-notes-app</a>
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-five-delta-16.vercel.app/api?username=hood117&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6" alt="stats" height="150" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats-five-delta-16.vercel.app/api/top-langs/?username=hood117&layout=compact&theme=tokyonight&hide_border=true&border_radius=6" alt="top languages" height="150" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://streak-stats.demolab.com?user=hood117&theme=tokyonight&hide_border=true&border_radius=6" alt="streak" height="150" />
-      </td>
-    </tr>
-  </table>
-</div>
+     ~/dev/ssh-guide
+             Everything about that's in SSH.
+             <a href="https://github.com/Hood117/ssh-guide">github.com/Hood117/ssh-guide</a>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hood117/Hood117/output/snake.svg?palette=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hood117/Hood117/output/snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hood117/Hood117/output/snake.svg" />
-  </picture>
-</div>
+     ~/dev/powerbi-sales-dashboard
+             Interactive sales dashboard built in Power BI.
+             <a href="https://github.com/Hood117/powerbi-sales-dashboard">github.com/Hood117/powerbi-sales-dashboard</a>
 
-> *"I automate things I'm too lazy to do twice."*
+     ~/dev/blinkit_dashboard
+             Power BI dashboard inspired by Blinkit.
+             <a href="https://github.com/Hood117/blinkit_dashboard">github.com/Hood117/blinkit_dashboard</a>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hood117&label=Profile+views&style=for-the-badge&color=0e75b6" alt="profile views" />
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&center=true&vCenter=true&width=460&height=30&lines=Thanks+for+stopping+by!+Let's+build+something+epic+%F0%9F%9A%80" alt="thanks for visiting" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=110&section=footer" width="100%" alt="footer wave" />
-</div>
+     ~/dev/hadoop-guide
+             Notes and examples for Apache Hadoop.
+             <a href="https://github.com/Hood117/hadoop-guide">github.com/Hood117/hadoop-guide</a>
+
+     ~/dev/Linux
+             Linux basics worth keeping around.
+             <a href="https://github.com/Hood117/Linux">github.com/Hood117/Linux</a>
+
+     ~/dev/DHCP-guide
+             A guide to DHCP.
+             <a href="https://github.com/Hood117/DHCP-guide">github.com/Hood117/DHCP-guide</a>
+
+     ~/dev/mini-claw, mini-openclaw
+             TypeScript playgrounds.
+             <a href="https://github.com/Hood117/mini-claw">…/mini-claw</a>
+             <a href="https://github.com/Hood117/mini-openclaw">…/mini-openclaw</a>
+
+<b>SEE ALSO</b>
+     <a href="https://github.com/Hood117">github(1)</a>,
+     <a href="https://www.linkedin.com/in/rahamtullah-zadran-148074278">linkedin(1)</a>,
+     <a href="https://x.com/rahmatdev">x(1)</a>,
+     <a href="https://instagram.com/itxzadrann">instagram(1)</a>,
+     <a href="https://discord.com/users/hood_117">discord(1)</a>,
+     <a href="mailto:rahmatzadran.tech@gmail.com">gmail(7)</a>
+
+     Every repo: <a href="https://github.com/Hood117?tab=repositories">repositories(1)</a>
+
+<b>TELEMETRY</b>
+     Live output. Refreshes every time this page is loaded:
+
+     <div align="center">
+       <table border="0" cellpadding="0" cellspacing="0">
+         <tr>
+           <td align="center">
+             <img src="https://github-readme-stats-five-delta-16.vercel.app/api?username=hood117&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=6" height="150" alt="github stats" />
+           </td>
+           <td align="center">
+             <img src="https://github-readme-stats-five-delta-16.vercel.app/api/top-langs/?username=hood117&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=6" height="150" alt="top languages" />
+           </td>
+         </tr>
+         <tr>
+           <td colspan="2" align="center">
+             <br/>
+             <img src="https://streak-stats.demolab.com?user=hood117&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=6" height="150" alt="contribution streak" />
+           </td>
+         </tr>
+       </table>
+       <br/>
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hood117/Hood117/output/snake.svg?palette=github-dark" />
+         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hood117/Hood117/output/snake.svg" />
+         <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Hood117/Hood117/output/snake.svg" />
+       </picture>
+     </div>
+
+<b>EPIGRAPH</b>
+     "I automate things I'm too lazy to do twice."
+
+<b>BUGS</b>
+     Sleep is documented but rarely implemented.
+     Will refactor a pipeline that was working five minutes ago.
+     Answers "works on my machine" with a full CI run instead.
+
+<b>REPORTING BUGS</b>
+     <a href="mailto:rahmatzadran.tech@gmail.com">rahmatzadran.tech@gmail.com</a>
+     Reports arriving with coffee attached are prioritised.
+
+<b>AUTHORS</b>
+     Written and maintained by
+     <a href="mailto:rahmatzadran.tech@gmail.com">Rahmatullah Zadran</a>.
+
+                                <b>HOOD(1)</b>
+</pre>

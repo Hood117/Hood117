@@ -18,10 +18,6 @@ From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it. I bui
 <img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/skills.svg" width="100%" alt="Technical report — skills"/>
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/log.svg" width="100%" alt="System log"/>
-</div>
-
 <div align="center"><code>▸ TELEMETRY</code></div>
 
 <div align="center">

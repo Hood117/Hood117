@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="117" height="44" viewBox="0 0 117 44" role="img" aria-label="WEBSITE">
+<rect x="0" y="0" width="117" height="44" fill="#161b22" rx="8" stroke="#30363d" stroke-width="1"/>
+<g transform="translate(16,14) scale(0.66667)" fill="none" stroke="#a3e635" stroke-width="2"><circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><line x1="3" y1="12" x2="21" y2="12"/></g>
+<text x="42" y="27" font-family="Consolas,'JetBrains Mono','Fira Code','Cascadia Mono','Courier New',monospace" font-size="14" fill="#e6edf3">WEBSITE</text>
+</svg>

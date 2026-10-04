@@ -178,6 +178,7 @@ const socials = [
   { file: 'social-linkedin', key: 'linkedin', label: 'LINKEDIN', color: '#0a66c2' },
   { file: 'social-x', key: 'x', label: 'X.COM', color: '#e6edf3' },
   { file: 'social-github', key: 'github', label: 'GITHUB', color: '#e6edf3' },
+  { file: 'social-website', key: 'website', label: 'WEBSITE', color: C.lime },
   { file: 'social-gmail', key: 'gmail', label: 'GMAIL', color: '#ea4335' },
   { file: 'social-instagram', key: 'instagram', label: 'INSTAGRAM', color: '#e4405f' },
   { file: 'social-discord', key: 'discord', label: 'DISCORD', color: '#5865f2' },
@@ -186,18 +187,34 @@ const socials = [
 function chipSvg(s) {
   const H = 44;
   const W = 58 + Math.round(s.label.length * 8.4);
+  const icon = s.key === 'website'
+    ? `<g transform="translate(16,14) scale(0.66667)" fill="none" stroke="${s.color}" stroke-width="2"><circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><line x1="3" y1="12" x2="21" y2="12"/></g>`
+    : `<g transform="translate(16,14) scale(0.66667)" fill="${s.color}"><path d="${ICONS[s.key]}"/></g>`;
   const parts = [
     rect(0, 0, W, H, C.panel, { stroke: C.border, rx: 8 }),
-    `<g transform="translate(16,14) scale(0.66667)" fill="${s.color}"><path d="${ICONS[s.key]}"/></g>`,
+    icon,
     text(42, 27, s.label, { size: 14, fill: C.text }),
   ];
   return svg(W, H, parts.join('\n'), s.label);
+}
+
+function nowbar() {
+  const label = 'now: building my-notes-app \u2014 React + Supabase';
+  const W = 44 + Math.round(label.length * 9.6) + 24;
+  const H = 44;
+  const parts = [
+    rect(0, 0, W, H, C.panel, { stroke: C.border, rx: 8 }),
+    `<circle cx="24" cy="22" r="6" fill="${C.lime}"/>`,
+    text(44, 27, label, { size: 16, fill: C.soft }),
+  ];
+  return svg(W, H, parts.join('\n'), label);
 }
 
 /* ---------------- write all ---------------- */
 const files = {
   'hero.svg': hero(),
   'skills.svg': skills(),
+  'nowbar.svg': nowbar(),
 };
 for (const s of socials) files[s.file + '.svg'] = chipSvg(s);
 

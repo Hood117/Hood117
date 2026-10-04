@@ -6,9 +6,14 @@
 From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it. I build systems that scale and interfaces people love — then automate everything around them.
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/nowbar.svg" height="44" alt="now: building my-notes-app"/>
+</div>
+
+<div align="center">
 <a href="https://www.linkedin.com/in/rahamtullah-zadran-148074278"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-linkedin.svg" height="40" alt="LinkedIn"/></a>
 <a href="https://x.com/rahmatdev"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-x.svg" height="40" alt="X"/></a>
 <a href="https://github.com/Hood117"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-github.svg" height="40" alt="GitHub"/></a>
+<a href="https://mywebsite-bay-theta.vercel.app/"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-website.svg" height="40" alt="Website"/></a>
 <a href="mailto:rahmatzadran.tech@gmail.com"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-gmail.svg" height="40" alt="Gmail"/></a>
 <a href="https://instagram.com/itxzadrann"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-instagram.svg" height="40" alt="Instagram"/></a>
 <a href="https://discord.com/users/hood_117"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-discord.svg" height="40" alt="Discord"/></a>

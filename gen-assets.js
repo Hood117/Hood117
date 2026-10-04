@@ -198,23 +198,10 @@ function chipSvg(s) {
   return svg(W, H, parts.join('\n'), s.label);
 }
 
-function nowbar() {
-  const label = 'now: building my-notes-app \u2014 React + Supabase';
-  const W = 44 + Math.round(label.length * 9.6) + 24;
-  const H = 44;
-  const parts = [
-    rect(0, 0, W, H, C.panel, { stroke: C.border, rx: 8 }),
-    `<circle cx="24" cy="22" r="6" fill="${C.lime}"/>`,
-    text(44, 27, label, { size: 16, fill: C.soft }),
-  ];
-  return svg(W, H, parts.join('\n'), label);
-}
-
 /* ---------------- write all ---------------- */
 const files = {
   'hero.svg': hero(),
   'skills.svg': skills(),
-  'nowbar.svg': nowbar(),
 };
 for (const s of socials) files[s.file + '.svg'] = chipSvg(s);
 

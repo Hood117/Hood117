@@ -6,10 +6,6 @@
 From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it. I build systems that scale and interfaces people love — then automate everything around them.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/nowbar.svg" height="44" alt="now: building my-notes-app"/>
-</div>
-
-<div align="center">
 <a href="https://www.linkedin.com/in/rahamtullah-zadran-148074278"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-linkedin.svg" height="40" alt="LinkedIn"/></a>
 <a href="https://x.com/rahmatdev"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-x.svg" height="40" alt="X"/></a>
 <a href="https://github.com/Hood117"><img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/social-github.svg" height="40" alt="GitHub"/></a>

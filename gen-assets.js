@@ -62,7 +62,7 @@ function winHeader(w, title, right, h = 46) {
 
 /* ---------------- hero ---------------- */
 const hero = () => {
-  const W = 1200, H = 372;
+  const W = 1200, H = 320;
   const body = [
     `<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0f1a15"/></linearGradient><pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#1b2533"/></pattern><clipPath id="avclip"><circle cx="1010" cy="190" r="80"/></clipPath></defs>`,
     rect(0, 0, W, H, 'url(#bg)'),
@@ -80,14 +80,6 @@ const hero = () => {
     text(56, 212, 'HOOD117', { size: 96, weight: 700, fill: C.text }),
     rect(56, 232, 404, 5, C.lime),
     text(56, 282, 'FULL-STACK DEVELOPER \u00b7 DEVOPS \u00b7 AUTOMATE EVERYTHING', { size: 24, fill: C.soft }),
-    rect(0, H - 42, W, 42, C.lime),
-    line(0, H - 42, W, H - 42, '#7bc416', 2),
-    textTspans(56, H - 15, [
-      { t: '\u25b8 ', fill: '#0d1117', weight: 700 },
-      { t: 'NOW BUILDING', fill: '#0d1117', weight: 700 },
-      { t: '  \u00b7  my-notes-app \u2014 React + Supabase', fill: '#1a2b0a' },
-    ], { size: 17 }),
-    text(W - 56, H - 15, 'mywebsite-bay-theta.vercel.app', { size: 15, fill: '#1a2b0a', anchor: 'end', op: 0.8 }),
   ].join('\n');
   return svg(W, H, body, 'Hood117 — Rahmatullah Zadran, full-stack developer');
 };

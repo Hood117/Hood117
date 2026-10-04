@@ -51,7 +51,7 @@ From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it. I bui
 > *"I automate things I'm too lazy to do twice."*
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=hood117&amp;label=profile+views&amp;style=flat-square&amp;color=0d1117" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=hood117&amp;label=profile+views&amp;style=flat-square&amp;color=0e75b6" alt="profile views" />
 
 <code>HOOD(1) · General Commands Manual · maintained by Rahmatullah Zadran</code>
 </div>

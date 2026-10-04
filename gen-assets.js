@@ -62,7 +62,7 @@ function winHeader(w, title, right, h = 46) {
 
 /* ---------------- hero ---------------- */
 const hero = () => {
-  const W = 1200, H = 400;
+  const W = 1200, H = 372;
   const body = [
     `<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0f1a15"/></linearGradient><pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#1b2533"/></pattern><clipPath id="avclip"><circle cx="1010" cy="190" r="80"/></clipPath></defs>`,
     rect(0, 0, W, H, 'url(#bg)'),
@@ -80,12 +80,6 @@ const hero = () => {
     text(56, 212, 'HOOD117', { size: 96, weight: 700, fill: C.text }),
     rect(56, 232, 404, 5, C.lime),
     text(56, 282, 'FULL-STACK DEVELOPER \u00b7 DEVOPS \u00b7 AUTOMATE EVERYTHING', { size: 24, fill: C.soft }),
-    textTspans(56, 330, [
-      { t: '$', fill: C.lime, weight: 700 },
-      { t: ' hood117 --status', fill: C.soft },
-      { t: ' online', fill: C.cyan },
-    ], { size: 24 }),
-    rect(436, 306, 14, 28, C.lime),
     rect(0, H - 42, W, 42, C.lime),
     line(0, H - 42, W, H - 42, '#7bc416', 2),
     textTspans(56, H - 15, [

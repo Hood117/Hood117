@@ -2,10 +2,6 @@
 <img src="https://raw.githubusercontent.com/Hood117/Hood117/main/assets/hero.svg" width="100%" alt="Hood117 — Rahmatullah Zadran, full-stack developer"/>
 </div>
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=hood117&amp;label=profile+views&amp;style=flat-square&amp;color=0e75b6" alt="profile views" />
-</div>
-
 **Rahmatullah Zadran · `Hood117`** — full-stack developer, DevOps-leaning.  
 From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it. I build systems that scale and interfaces people love — then automate everything around them.
 
@@ -55,5 +51,7 @@ From bare-metal Linux to pixel-perfect Next.js: if it ships, I touched it. I bui
 > *"I automate things I'm too lazy to do twice."*
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=hood117&amp;label=profile+views&amp;style=flat-square&amp;color=0e75b6" alt="profile views" />
+
 <code>HOOD(1) · General Commands Manual · maintained by Rahmatullah Zadran</code>
 </div>
